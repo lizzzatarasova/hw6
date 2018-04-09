@@ -14,6 +14,7 @@
 
 ## 2
 ![](https://github.com/lizzzatarasova/hw6/blob/master/34567.PNG?raw=true)
+
 с обоими словами могут употребляться такие дополнения как "friend", это зависит от контекста
 со словом "tell" - tale
 со словом "talk" - police
